@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @ASNXXXZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ANYPRONOUNS [MOSTLY HE/THEY]
-- ⚡ Fun fact: ...
+<h2 align="left">ɅSNXZ.</h2>
 
-<!---
-ASNXXXZ/ASNXXXZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asnxxxz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="175" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=asnxxxz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ok5d7764cwlsf5ugbfxtxleypu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ok5d7764cwlsf5ugbfxtxleypu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/asnxxxz/asnxxxz/output/snake.svg" alt="Snake animation" />
+
+###
