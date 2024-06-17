@@ -9,13 +9,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=asnxxxz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
+<div align="right">
   <a href="https://open.spotify.com/user/31ok5d7764cwlsf5ugbfxtxleypu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ok5d7764cwlsf5ugbfxtxleypu&count=5&unique=true" alt="Spotify recently played"  />
   </a>
@@ -23,8 +17,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/asnxxxz/asnxxxz/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=asnxxxz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
